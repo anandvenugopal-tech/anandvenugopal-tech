@@ -1,5 +1,4 @@
 ## 🌟 About Me
-
 ```json
 {
   "name": "Anand Venugopal",
@@ -19,4 +18,10 @@
     "Exploratory Data Analysis (EDA)"
   ]
 }
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anand-venugopal-tech/)
 
