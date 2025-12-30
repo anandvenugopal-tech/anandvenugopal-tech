@@ -1,3 +1,5 @@
+## HI, I'm Anand Venugopal
+
 about_me = {
     "identity": {
         "name": "[Anand Venugopal]",
@@ -19,8 +21,6 @@ about_me = {
     "current_status": "Building strong ML fundamentals and real-world projects"
 }
 
-# Running the profile...
-print(f"Status: Ready to build something impactful with {profile_data['identity']['name']}")
 
 <!--
 **anandvenugopal-tech/anandvenugopal-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
