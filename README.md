@@ -73,3 +73,9 @@
 
 ---
 
+## 🧩 Open Source Contributions
+
+- 🐍 **pip-tools (Jazzband)**  
+  Improved CI workflow naming for better clarity  
+  🔗 https://github.com/jazzband/pip-tools/pull/2300
+
