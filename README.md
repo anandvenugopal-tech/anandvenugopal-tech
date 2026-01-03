@@ -1,4 +1,4 @@
-## 👨‍💻 personal overview
+## 👨‍💻 Personal Overview
 ```yaml
 about_me:
   role: Data Science & AI Enthusiast
