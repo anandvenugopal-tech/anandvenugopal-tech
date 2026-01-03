@@ -1,23 +1,27 @@
-## 🌟 About Me
-```json
-{
-  "name": "Anand Venugopal",
-  "role": "Data Science & AI",
-  "location": "Manjeri, India",
-  "skills": [
-    "Python",
-    "Machine Learning",
-    "Data Analysis",
-    "Data Visualization",
-    "Cloud Computing"
-  ],
-  "specializations": [
-    "Machine Learning (Supervised & Unsupervised)",
-    "Deep Learning (CNNs, RNNs)",
-    "Natural Language Processing (Transformers, LLMs)",
-    "Exploratory Data Analysis (EDA)"
-  ]
-} 
+## 👨‍💻 personal overview
+```yaml
+about_me:
+  role: Data Science & AI Enthusiast
+  summary: >
+    Passionate about working with data to extract insights and build
+    practical, real-world AI solutions. Strong interest in machine learning,
+    deep learning, and analytical problem solving.
+  interests:
+    - Machine Learning
+    - Deep Learning
+    - Neural Networks
+    - Data Analytics
+    - AI-driven Applications
+  current_focus:
+    - Building end-to-end machine learning projects
+    - Improving model performance and interpretability
+    - Writing clean, reproducible, and well-documented code
+  career_goal: >
+    To work as a Data Scientist or AI Engineer and contribute to
+    impactful, data-driven products.
+  learning_mindset: >
+    Continuous learner focused on strengthening fundamentals through
+    hands-on projects and experimentation.
 ```
 ---
 
@@ -27,7 +31,7 @@
 
 ---
 
-## Tech Stacks
+## 💻 Tech Stacks
 ```json
 {
   "programming_languages": [
