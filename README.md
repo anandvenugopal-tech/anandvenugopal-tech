@@ -69,7 +69,7 @@ about_me:
   Improved CI workflow naming for better clarity  
   🔗 https://github.com/jazzband/pip-tools/pull/2300
 
-- **scikit-learn**
+- **scikit-learn**<br>
   Clarified the behaviour of the 'verbose' parameter in GridSearchCV 
-  and RandomizedSearchCV to improve documentation clarity.
+  and RandomizedSearchCV to improve documentation clarity.<br>
   🔗 https://github.com/scikit-learn/scikit-learn/pull/32968
