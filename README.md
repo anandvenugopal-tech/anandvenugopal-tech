@@ -65,7 +65,11 @@ about_me:
 
 ## 🧩 Open Source Contributions
 
-- 🐍 **pip-tools (Jazzband)**  
+- **pip-tools (Jazzband)**  
   Improved CI workflow naming for better clarity  
   🔗 https://github.com/jazzband/pip-tools/pull/2300
 
+- **scikit-learn**
+  Clarified the behaviour of the 'verbose' parameter in GridSearchCV 
+  and RandomizedSearchCV to improve documentation clarity.
+  🔗 https://github.com/scikit-learn/scikit-learn/pull/32968
