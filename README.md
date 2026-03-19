@@ -73,3 +73,8 @@ about_me:
   Clarified the behaviour of the 'verbose' parameter in GridSearchCV 
   and RandomizedSearchCV to improve documentation clarity.<br>
   🔗 https://github.com/scikit-learn/scikit-learn/pull/32968
+
+- **pandas**<br>
+  Improved docstring for pandas 3.0 version.<br>
+  🔗
+https://github.com/pandas-dev/pandas/pull/63860
