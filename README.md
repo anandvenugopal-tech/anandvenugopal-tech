@@ -1,7 +1,7 @@
 ## 👨‍💻 Personal Overview
 ```yaml
 about_me:
-  role: Data Science & AI Enthusiast
+  role: AI Developer
   summary: >
     Passionate about working with data to extract insights and build
     practical, real-world AI solutions. Strong interest in machine learning,
